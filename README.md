@@ -1,1 +1,3 @@
-This is a base branch for 1.20.2 mods going forward. (This is also a practice with branches)
+Main practice mod for 1.20.2.
+
+- Will update as the mod progresses.
