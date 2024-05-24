@@ -2,8 +2,19 @@
   "item.practicemod.sapphire": "Sapphire",
   "item.practicemod.raw_sapphire": "Raw Sapphire",
 
+  "item.practicemod.metal_detector": "Metal Detector",
+
   "block.practicemod.sapphire_block": "Block of Sapphire",
   "block.practicemod.raw_sapphire_block": "Block of Raw Sapphire",
+
+  "block.practicemod.sound_block": "Sound Block",
+
+  "block.practicemod.sapphire_ore": "Sapphire Ore",
+  "block.practicemod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.practicemod.nether_sapphire_ore": "Nether Sapphire Ore",
+  "block.practicemod.end_stone_sapphire_ore": "Endstone Sapphire Ore",
+
+  "item.practicemod.strawberry": "Strawberry",
 
   "creativetab.practice_tab": "Sapphire Practice Tab"
 }
