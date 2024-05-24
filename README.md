@@ -1,4 +1,3 @@
-Main practice mod for 1.20.2 following the tutorial by @KaupenJoe on
-youtube: https://www.youtube.com/@ModdingByKaupenjoe
+Main practice mod for 1.20.2.
 
 - Will update as the mod progresses.
